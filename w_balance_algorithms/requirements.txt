@@ -2,4 +2,4 @@ athletic-pandas==0.5.0
 goldencheetahlib==0.6.0
 ipython==6.2.1
 matplotlib==2.1.0
-numpy==1.13.3
+numpy==1.22.0
